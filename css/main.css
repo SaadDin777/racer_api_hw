@@ -1,0 +1,31 @@
+body {
+    background-color: indianred ;
+}
+
+#titleName {
+    text-align: center;
+}
+
+#controlSec {
+    text-align: center;
+}
+
+#season, #round {
+    width: 20%;
+    height: 35px;
+}
+
+#getButton {
+    width: 10%;
+    height: 35px;
+    background-color: aqua;
+}
+
+#alldata {
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    background-color: darkcyan;
+    color: white;
+}
